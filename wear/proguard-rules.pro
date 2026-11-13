@@ -1,0 +1,4 @@
+-keep class com.gainforge.wear.WatchPayload { *; }
+-keep class com.gainforge.wear.WatchExercise { *; }
+-keep class com.gainforge.wear.WatchWorkoutDone { *; }
+-keepattributes *Annotation*, InnerClasses

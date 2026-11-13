@@ -1,0 +1,2 @@
+-keep class com.gainforge.app.data.** { *; }
+-keepattributes *Annotation*, InnerClasses
